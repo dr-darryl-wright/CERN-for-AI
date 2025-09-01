@@ -9,8 +9,6 @@ This paper examines proposals for creating a "CERN for AI" by systematically map
 
 Recent calls for establishing a "CERN for AI" have emerged as one proposal for governing artificial intelligence systems at an international scale [1-4, 11, 15]. A CERN analogue refers to creating a large international scientific collaboration modelled after the Conseil Européen pour la Recherche Nucléaire (European Organisation for Nuclear Research). However, existing proposals vary considerably in their specifics and remain unclear about how they relate to each other or the extent to which they rely on similar governing mechanisms.
 
-**Mechanism mapping** is a systematic method from evidence-based policy that tests whether successful policies can be adapted to new contexts by examining the contextual assumptions that make them work [6]. This approach helps identify where the original policy's assumptions may not hold in the new environment, potentially undermining its effectiveness.
-
 The proposals also diverge on fundamental questions: Should the organisation promote AI capabilities development or focus specifically on AI safety? While drawing parallels with CERN may effectively communicate the concept of large-scale international AI collaboration, there is a significant risk of developing false confidence that we understand how to implement an international organisation capable of adequately addressing AI's unique challenges.
 
 This paper aims to clarify how the mechanisms that make CERN successful for "nuclear research of a pure scientific and fundamental character" [5] can be adapted for AI governance. We distinguish between **CERN for AI proposals** (focused on advancing AI capabilities) and **CERN for AI Safety proposals** (focused specifically on AI risk mitigation), though we use "CERN for AI" as an umbrella term when the distinction is not critical.
@@ -57,6 +55,8 @@ We systematically reviewed proposals, drawing parallels between CERN and large i
 | Intrinsic Safety Objectives | Mechanism includes AI safety as core organisational mission |
 
 ### Mechanism Mapping
+
+Mechanism mapping is a systematic method from evidence-based policy that tests whether successful policies can be adapted to new contexts by examining the contextual assumptions that make them work [6]. This approach helps identify where the original policy's assumptions may not hold in the new environment, potentially undermining its effectiveness.
 
 We employed a five-step mechanism mapping process [6] to test whether CERN's institutional design could be successfully adapted for AI governance:
 
