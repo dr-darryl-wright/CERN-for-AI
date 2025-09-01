@@ -5,6 +5,8 @@
 
 This paper examines proposals for creating a "CERN for AI" by systematically mapping the mechanisms that make CERN successful onto the artificial intelligence context. Through analysis of six prominent proposals, we find significant differences in their underlying mechanisms and substantial mismatches between CERN's operating assumptions and the AI landscape. Our mechanism mapping reveals that a successful AI analogue would require focusing primarily on AI safety, establishing compute monopolisation through international legislation, and accepting reduced transparency compared to CERN's open science model. The analysis suggests that the MAGIC and TAISC proposals best align with the adapted mechanism requirements, though both face significant implementation challenges.
 
+**Mechanism mapping** is a systematic method from evidence-based policy that tests whether successful policies can be adapted to new contexts by examining the contextual assumptions that make them work [6]. This approach helps identify where the original policy's assumptions may not hold in the new environment, potentially undermining its effectiveness.
+
 ## Introduction
 
 Recent calls for establishing a "CERN for AI" have emerged as one proposal for governing artificial intelligence systems at an international scale [1-4, 11, 15]. A CERN analogue refers to creating a large international scientific collaboration modelled after the Conseil Européen pour la Recherche Nucléaire (European Organisation for Nuclear Research). However, existing proposals vary considerably in their specifics and remain unclear about how they relate to each other or the extent to which they rely on similar governing mechanisms.
