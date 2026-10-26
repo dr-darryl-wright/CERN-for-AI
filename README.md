@@ -1,5 +1,6 @@
 # CERN to CERN for AI Mechanism Mapping
 **Darryl Wright**
+
 Original posting: https://blog.bluedot.org/p/cern-to-cern-for-ai-mechanism-mapping?utm_source=publication-search
 
 ## Executive Summary
